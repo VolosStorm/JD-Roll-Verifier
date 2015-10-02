@@ -1,0 +1,11 @@
+{
+	"name": "jd-verify",
+	"version": "1.0.0",
+	"description": "Just-Dice.com roll verify module",
+	"author": "Your Name <you.name@example.org>",
+    "dependencies": {
+    	"crypto": "*",
+    	"figlet": "*",
+    	"shell-arguments": "*"
+  	}
+}
